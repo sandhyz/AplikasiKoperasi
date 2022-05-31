@@ -7,6 +7,7 @@ adapun fitur didalamnya :
 -pinjaman
 -pembayaran
 -laporan
+-manage akun
 
 adapun untuk uinya sebagai berikut : 
 
